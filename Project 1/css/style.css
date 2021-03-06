@@ -1,0 +1,303 @@
+body {
+  font-family: Arial, Helvetica, sans-serif !important;
+}
+
+#hero {
+  background-image: url(../assets/images/petr-sevcovic-qE1jxYXiwOA-unsplash.jpg);
+  background-size: cover;
+  /* width: 100vw; */
+  height: 100vh;
+}
+
+.centered-text {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#title {
+  font-family: "Lobster", cursive;
+  font-size: calc(3.75em + 5vmin);
+  margin-bottom: 5%;
+  text-shadow: -6px 0 2px #5f2314;
+}
+#title:hover {
+  font-family: "Lobster", cursive;
+  font-size: calc(3.75em + 5vmin);
+  margin-bottom: 5%;
+  text-shadow: -6px 0 2px #5f2314;
+}
+
+#subtitle {
+  font-size: calc(0.75em + 1.2vmin);
+}
+
+.arrow-size {
+  width: 5%;
+}
+
+#image-display {
+  margin: 4%;
+  width: 90%;
+  height: 40vh;
+  border: 0.2em solid white;
+  text-align: center;
+}
+
+.submit-button {
+  background-color: #000000;
+  color: white;
+  width: 30%;
+  padding: 2%;
+}
+
+.submit-button:hover {
+  background-color: #ffffff;
+  color: black;
+  -webkit-animation: ease-in-out 0.5s;
+  animation: ease-in-out 0.5s;
+  border: 1px solid black;
+}
+
+.order-button {
+  background-color: #1a2c2b;
+  color: white;
+  width: 30%;
+  padding: 2%;
+}
+
+.order-button:hover {
+  background-color: #ffffff;
+  color: black;
+  -webkit-animation: ease-in-out 0.5s;
+  animation: ease-in-out 0.5s;
+  border: 1px solid black;
+}
+
+.col-image {
+  width: 90%;
+  height: auto;
+  -o-object-fit: cover;
+  object-fit: cover;
+  -webkit-transition: ease-in-out 0.5s;
+  transition: ease-in-out 0.5s;
+}
+
+.drinks-images {
+  width: 20vw;
+
+  -webkit-transition: ease-in-out 0.3s;
+  transition: ease-in-out 0.3s;
+  margin: 2%;
+}
+
+.body-text {
+  font-size: 16px;
+  line-height: 2.2;
+}
+
+.content {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.section-title {
+  font-family: "Bebas Neue", cursive;
+  font-size: 3.6vh;
+  line-height: 2.2;
+}
+
+#title-paragraph {
+  font-size: 5vh;
+}
+
+.section-text {
+  font-size: 1.3rem;
+  line-height: 2;
+  text-align: justify;
+}
+
+.navbar-icon {
+  width: 50px;
+  height: 50px;
+  -webkit-filter: drop-shadow(0px 5px 5px #222);
+  filter: drop-shadow(0px 5px 5px #222);
+}
+
+.navbar {
+  background-color: #192d2b !important;
+  padding-left: 10px;
+}
+
+.nav-link {
+  color: #f3f8fa !important;
+}
+
+.nav-link:hover {
+  color: #24978c;
+}
+
+.zoom {
+  transition: ease-in-out 0.5s;
+}
+
+.zoom:hover {
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+}
+
+#product {
+  -webkit-transition: ease-in-out 1s;
+  transition: ease-in-out 1s;
+  vertical-align: middle;
+  object-fit: cover;
+}
+
+#productModel {
+  -webkit-transition: ease-in-out 1s;
+  transition: ease-in-out 1s;
+}
+
+#coldBrew {
+  margin-right: 0% !important;
+  padding-right: 0% !important;
+}
+
+.responsive-padding {
+  padding: 4%;
+}
+
+footer {
+  background-color: #66181a;
+  color: white;
+}
+
+#color-coffee {
+  color: #9c0b01;
+}
+
+.color-specials {
+  color: #c05b18;
+}
+
+.bg-yellow {
+  background-color: #ecb442;
+}
+
+#map {
+  height: 400px;
+}
+
+#map-container {
+  text-align: center;
+  background-color: #3d3d3d;
+  margin: 5%;
+  padding-top: 2%;
+}
+iframe {
+  width: 70%;
+  height: 50vh;
+  margin: 0;
+  padding: 0;
+}
+
+.address {
+  color: #fc941e;
+}
+.adress-line {
+  font-size: 3vw;
+  text-shadow: -1px 2px 4px #0f0e0e4d;
+}
+
+.is-invalid {
+  color: red !important;
+  font-weight: bold;
+  margin-bottom: 2%;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+#hours {
+  width: 90%;
+}
+@media only screen and (min-width: 1000px) {
+  #image-display {
+    height: 60vh;
+  }
+  #hours {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-width: 1250px) {
+  .responsive-padding {
+    padding: 3%;
+  }
+  .adress-line {
+    font-size: 4vw;
+  }
+  .section-title {
+    font-size: 5vh;
+  }
+  #image-display {
+    height: 70vh;
+  }
+  .drinks-images {
+    width: 90%;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .responsive-padding {
+    padding: 3%;
+  }
+  .adress-line {
+    font-size: 4vw;
+  }
+  .section-title {
+    font-size: 4vh;
+  }
+  #image-display {
+    height: 50vh;
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .section-title {
+    font-size: 3.5vh;
+  }
+  .adress-line {
+    font-size: 5vw;
+  }
+
+  #hours {
+    width: 80%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive-padding {
+    padding: 0%;
+  }
+
+  .section-title {
+    font-size: 3vh;
+  }
+  .adress-line {
+    font-size: 8vw;
+  }
+
+  #hours {
+    width: 97%;
+  }
+}
