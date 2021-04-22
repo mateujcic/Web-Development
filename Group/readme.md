@@ -1,26 +1,9 @@
-# Foobar
+# Globe.ly - Group Project
 
-Foobar is a Python library for dealing with word pluralization.
+Web & Mobile II group project about a website that brings awareness to pollution on Earth.
 
-## Installation
+## Screenshots
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+![alt text](https://github.com/mateujcic/Web-Development/tree/main/Group/assets/media/home1.jpg?raw=true)
+![alt text](https://github.com/mateujcic/Web-Development/tree/main/Group/assets/media/home2.jpg?raw=true)
+![alt text](https://github.com/mateujcic/Web-Development/tree/main/Group/assets/media/events.jpg?raw=true)
