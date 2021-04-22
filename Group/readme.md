@@ -4,7 +4,7 @@ Web & Mobile II group project about a website that brings awareness to pollution
 
 ## Technologies used
 HTML, CSS, JavaScript
-Bootstrap 
+\nBootstrap 
 
 ## Screenshots
 
