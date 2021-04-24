@@ -1,22 +1,18 @@
 
 
-# Website for a coffee shop - Individual Project
+# Using jQuery To Consume a Web Service - Individual Project
 
 ## Instructions:
 Run in VS Code using a PHP Server
 
-
 ## Description:
-Individual project about a coffee ordrer customiziator.
+Individual project wehre jQuery is used to fetch API and display its data.
 
 ## Technologies used
-HTML, CSS, JavaScript  </br>Bootstrap 
+HTML, CSS, JavaScript  </br>Bootstrap, jQuery
 ### Course:
 Client Programming ISTE - 340
 
-
-## Technologies used:
-HTML, CSS, JavaScript, PHP  </br>Bootstrap 
 
 
 ## Screenshots
