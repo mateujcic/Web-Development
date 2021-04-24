@@ -4,5 +4,5 @@
 Client programming - Individual project about a coffee ordrer customiziator.
 
 ## Technologies used
-HTML, CSS, JavaScript, PHP  </br>Bootstrap 
+HTML, CSS, JavaScript  </br>Bootstrap 
 ## Screenshots
