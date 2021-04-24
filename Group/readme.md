@@ -1,7 +1,7 @@
 # Globe.ly - Group Project
 
 ## Course: 
-Web & Mobile II 
+Web & Mobile II ISTE - 240
 
 ## Project Description: 
 Group project about bringing awareness to pollution on Earth.
