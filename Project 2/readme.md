@@ -16,6 +16,6 @@ Client Programming ISTE - 340
 
 
 ## Screenshots
-![ScreenShot](https://github.com/mateujcic/Web-Development/blob/main/Project%201/assets/imag/home1.png)
-![ScreenShot](https://github.com/mateujcic/Web-Development/blob/main/Project%201/assets/imag/home2.png)
+![ScreenShot](https://github.com/mateujcic/Web-Development/blob/main/Project%201/assets/img/home1.png)
+![ScreenShot](https://github.com/mateujcic/Web-Development/blob/main/Project%201/assets/img/home2.png)
 
