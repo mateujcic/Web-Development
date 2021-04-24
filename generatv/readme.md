@@ -4,7 +4,7 @@
 Run using Expo
 
 ## Description:
-Individual project where an app displays random TV shows and the user can either like or dislike them.
+Individual project where an app displays a random TV shows and the user can either like or dislike them.
 
 ## Technologies used
 React Native
