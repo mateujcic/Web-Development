@@ -1,6 +1,7 @@
 # Globe.ly - Group Project
 
-## Course: Web & Mobile II 
+## Course: 
+Web & Mobile II 
 
 ## Project Description: 
 Group project about bringing awareness to pollution on Earth.
