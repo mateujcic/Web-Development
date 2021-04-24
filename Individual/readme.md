@@ -1,7 +1,7 @@
 # Website about tea - Individual Project
 
 ## Course: 
-Web & Mobile II 
+Web & Mobile II ISTE - 240
 
 ## Description:
 Individual project about a tea themed website.
