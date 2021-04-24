@@ -1,7 +1,7 @@
 
 # Website for a coffee shop - Individual Project
 
-##Course:
+## Course:
 Client programming 
 
 ## Description:
