@@ -2,7 +2,7 @@
 # Website for a coffee shop - Individual Project
 
 ## Course:
-Client programming 
+Client Programming ISTE - 340
 
 ## Description:
 Individual project about a coffee ordrer customiziator.
