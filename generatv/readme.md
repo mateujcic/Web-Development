@@ -16,6 +16,7 @@ Foundations of Mobile Design ISTE - 252
 ## Screenshots
 <div style="display:float">
 <img src="https://github.com/mateujcic/Web-Development/blob/main/generatv/Screen%20Images/screen1.PNG" width="300">
+<img src="https://github.com/mateujcic/Web-Development/blob/main/generatv/Screen%20Images/screen5.PNG" width="300">
 <img src="https://github.com/mateujcic/Web-Development/blob/main/generatv/Screen%20Images/screen2.PNG" width="300">
 <img src="https://github.com/mateujcic/Web-Development/blob/main/generatv/Screen%20Images/screen3.PNG" width="300">
 <img src="https://github.com/mateujcic/Web-Development/blob/main/generatv/Screen%20Images/screen4.PNG" width="300">
