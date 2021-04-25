@@ -14,4 +14,4 @@ Projects from my Web / App Development classes in my first and second year of co
 #### An app that uses React Native to fetch an API - Individual Project
 <div style="text-align: center;display: block;">
 <a href="https://github.com/mateujcic/Web-Development/blob/main/generatv"><img src="https://github.com/mateujcic/Web-Development/blob/main/generatv/Screen%20Images/screen1.PNG" width="300"></a>
-<a href="https://github.com/mateujcic/Web-Development/blob/main/generatv"><img src="https://github.com/mateujcic/Web-Development/blob/main/generatv/Screen%20Images/screen2.PNG" width="300"></a</div>
+<a href="https://github.com/mateujcic/Web-Development/blob/main/generatv"><img src="https://github.com/mateujcic/Web-Development/blob/main/generatv/Screen%20Images/screen5.PNG" width="300"></a</div>
