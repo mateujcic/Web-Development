@@ -1,4 +1,4 @@
-# Web-Development
+# Web / App Development
 Projects from my Web / App Development classes in my first and second year of college
 
 ## Projects shortcut links:
