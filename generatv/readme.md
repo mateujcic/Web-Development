@@ -1,4 +1,4 @@
-# Create an app that uses React Native to fetch an API - Individual Project
+# An app that uses React Native to fetch an API - Individual Project
 
 ## Instructions:
 Run using Expo
