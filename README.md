@@ -7,7 +7,7 @@ Projects from my Web / App Development classes in my first and second year of co
 <a href="https://github.com/mateujcic/Web-Development/blob/main/Group">![ScreenShot](https://github.com/mateujcic/Web-Development/blob/main/Group/assets/media/home1.png)</a>
 #### <a href="https://github.com/mateujcic/Web-Development/blob/main/Individual">Website about tea - Individual Project</a>
 <a href="https://github.com/mateujcic/Web-Development/blob/main/Individual">![ScreenShot](https://github.com/mateujcic/Web-Development/blob/main/Individual/assets/media/images/home1.png)</a>
-#### <a href="https://github.com/mateujcic/Web-Development/blob/main/Project%201">Website for a coffee shop - Individual Project</a>
+#### <a href="https://github.com/mateujcic/Web-Development/blob/main/Project%201">Coffee shop online ordering website - Individual Project</a>
 <a href="https://github.com/mateujcic/Web-Development/blob/main/Project%201">![ScreenShot](https://github.com/mateujcic/Web-Development/blob/main/Project%201/assets/images/home1.png)</a>
 #### <a href="https://github.com/mateujcic/Web-Development/blob/main/Project%202">Using jQuery To Consume a Web Service - Individual Project</a>
 <a href="https://github.com/mateujcic/Web-Development/blob/main/Project%202">![ScreenShot](https://github.com/mateujcic/Web-Development/blob/main/Project%202/assets/img/home1.png)</a>
