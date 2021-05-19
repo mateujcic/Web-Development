@@ -8,7 +8,7 @@ Run in VS Code using a PHP Server
 ## Description:
 Individual project where jQuery is used to fetch API and display its data.
 
-## Technologies used
+## Technologies used:
 HTML, CSS, JavaScript  </br>Bootstrap, jQuery
 ### Course:
 Client Programming ISTE - 340
